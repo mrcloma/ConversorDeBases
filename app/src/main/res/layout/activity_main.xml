@@ -58,7 +58,7 @@
                 android:id="@+id/binary_radio_button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Binary" />
+                android:text="Binário" />
 
             <RadioButton
                 android:id="@+id/hexadecimal_radio_button"
